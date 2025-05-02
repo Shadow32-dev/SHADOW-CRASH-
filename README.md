@@ -48,7 +48,7 @@
 ## 🚀 Deploy Easily
 
 ### 🔗 Get Pairing Code
-[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy.onrender.com)
+[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://shadow-crash-session-by-mr black-goku.onrender.com)
 
 ---
 
@@ -62,10 +62,10 @@
 
 ## 📦 Fork This Repository
 
-[![Fork Now](https://img.shields.io/badge/Fork-INCONNU--XD-26A69A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inconnuboyxtech/INCONNU-XD/fork)
+[![Fork Now](https://img.shields.io/badge/Fork-SHADOW--CRASH-26A69A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inconnuboyxtech/INCONNU-XD/fork)
 
 ---
-### 📥 DOWNLOAD FILE INCONNU-XD
+### 📥 DOWNLOAD FILE IS SHADOW-CRASH 
 
 <p align="center">
   <a href="https://github.com/shadowtechld/SHADOW-CRASH/archive/refs/heads/main.zip">
@@ -101,8 +101,8 @@
   <img alt="SHADOW-CRASH - OWNER" src="https://img.shields.io/badge/OWNER-⚡SHADOW%20BOY⚡-FF0000?style=for-the-badge&logo=github" />
 </a>
 
-> <a href="https://github.com/inconnuboyxtech">
-  <img alt="INCONNU BOY - HELPER" src="https://img.shields.io/badge/HELPER-⚡SHADOW%20BOY⚡-00FFC6?style=for-the-badge&logo=github" />
+> <a href="https://github.com/shadowtech">
+  <img alt="SHADO-CRASH- HELPER" src="https://img.shields.io/badge/HELPER-⚡SHADOW%20BOY⚡-00FFC6?style=for-the-badge&logo=github" />
 </a>  
 <p><b>For helping in bot plugin files.</b></p>
 
