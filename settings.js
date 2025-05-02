@@ -1,15 +1,15 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : CypherX
-// @author : •᭄۝ ✰•𝕸𝕽✰𝕭𝕷𝕬𝕮𝕶✰𝕲𝕺𝕶𝖀✰•۝❐᭄
-// @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
-// @telegram : t.me/
-// @github : Dark-Xploit
+// @project_name : Shadow-crash 
+// @author : •۝ ✰•𝕸𝕽✰𝕭𝕷𝕬𝕮𝕶✰𝕲𝕺𝕶𝖀✰•۝❐᭄
+// @youtube : 
+// @instagram : Colombe kanda 
+// @telegram : ✓✓
+// @github : Shadow dev
 // @tiktok : COLOMBE KANDA
 // @whatsapp : +243899295851
 
-//----------------------[ CYPHER-X ]----------------------//
+//----------------------[ Shadow-crash ]----------------------//
 
 const fs = require('fs')
 //File System module - because even bots need to read and write💁‍♂️
