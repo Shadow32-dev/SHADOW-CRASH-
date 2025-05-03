@@ -1,25 +1,37 @@
-// Base By Mr black Goku 
-// do not remake this script without giving me credit.
 
-const chalk = require("chalk")
-const fs = require("fs")
 
-global.ownerNumber = ["243899395851@s.whatsapp.net"]
-global.nomerOwner = "243970637157"
-global.nomorOwner = ['243899295851']
-global.namaDeveloper = "𝗞ɪ𝗻ɢ 𝗝ᴜɪ𝗰𝗲" //jangn diubh bng
-global.namaOwner = "𝗞ɪ𝗻ɢ 𝗝ᴜɪ𝗰𝗲"
-global.namaBot = "⸙═᪣Shadow crash 𝘃𝟭🌹᭄"
-global.versionBot = "𝟭.𝟬.𝟬"
-global.packname = "⸙═᪣𝗦hadow 𝗖ʀᴀ𝘀𝗵ᴇʀ 𝘃𝟭🌹᭄"
-global.author = "𝗞ɪ𝗻ɢ 𝗝ᴜɪ𝗰𝗲"
-global.thumb = fs.readFileSync("./shadow.jpg")
-global.ThM = 'https://files.catbox.moe/30gspu.jpg'
 
-let file = require.resolve(__filename) 
-fs.watchFile(file, () => {
-fs.unwatchFile(file)
-console.log(chalk.redBright(`Update ${__filename}`))
-delete require.cache[file]
-require(file)
-})
+// config.js
+const fs = require("fs");
+require("dotenv").config();
+
+const config = {
+  SESSION_ID: process.env.SESSION_ID || "Your Session Id",
+  PREFIX: process.env.PREFIX || '.',
+  AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN !== undefined ? process.env.AUTO_STATUS_SEEN === 'true' : true, 
+  AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY !== undefined ? process.env.AUTO_STATUS_REPLY === 'true' : true,
+  STATUS_READ_MSG: process.env.STATUS_READ_MSG || '',
+  AUTO_DL: process.env.AUTO_DL !== undefined ? process.env.AUTO_DL === 'true' : false,
+  AUTO_READ: process.env.AUTO_READ !== undefined ? process.env.AUTO_READ === 'true' : false,
+  AUTO_TYPING: process.env.AUTO_TYPING !== undefined ? process.env.AUTO_TYPING === 'true' : false,
+  AUTO_RECORDING: process.env.AUTO_RECORDING !== undefined ? process.env.AUTO_RECORDING === 'true' : false,
+  ALWAYS_ONLINE: process.env.ALWAYS_ONLINE !== undefined ? process.env.ALWAYS_ONLINE === 'true' : false,
+  AUTO_REACT: process.env.AUTO_REACT !== undefined ? process.env.AUTO_REACT === 'true' : false,
+   /*auto block only for 212 */
+  AUTO_BLOCK: process.env.AUTO_BLOCK !== undefined ? process.env.AUTO_BLOCK === 'true' : true,
+  
+  
+  REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : false, 
+  NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
+  MODE: process.env.MODE || "public",
+  BOT_NAME: process.env.BOT_NAME || "INCONNU-XD",
+  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/230q0c.jpg",
+  DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO INCONNU-XD",
+  OWNER_NAME: process.env.OWNER_NAME || "SHADOW CRASH",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "243970637157",
+  GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
+  WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
+};
+
+
+module.exports = config;
