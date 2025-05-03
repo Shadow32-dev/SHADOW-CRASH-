@@ -1,14 +1,14 @@
 {
-  "name": "INCONNU-XD",
-  "description": "🚀 SHADOW WhatsApp MultiDevice Bot – BY INCONNU BOY💡✨",
-  "logo": "https://files.catbox.moe/xee68x.jpeg",
+  "name": "SHADOW-CRASH",
+  "description": "🚀 SHADOW-CRASH WhatsApp MultiDevice Bot – BY MR BLACK GOKU 💡✨",
+  "logo": "https://files.catbox.moe/230q0c.jpg",
   "keywords": ["INCONNU BOY TECH", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/Shadow32-dev/SHADOW-CRASH-/tree/main",
   "stack": "container",
   "env": { 
   
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with the word SHADO~CRASH~",
+      "description": "Ensure your session Id starts with the word SHADOW~CRASH~",
       "required": true,
       "value": ""
     },
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "SHADOW-CRASH"
+      "value": "SHADOW~CRASH~"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "243970637157"
+      "value": "243970737157"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -97,4 +97,4 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
-}
+  
