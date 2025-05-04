@@ -1,26 +1,26 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=INCONNU-XD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=SHADOW-CRASH" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-<h1 align="center">⚡ SHADOW-CRASH ⚡</h1>
+<h1 align="center">⚡ SHADOW-CRASH V1⚡</h1>
 
                 ⚡ THE NEXT GEN WHATSAPP BOT BY MR BLACK GOKU ⚡
 
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/v96ec5.jpg" width="700"/>
+  <img src="https://files.catbox.moe/xee68x.jpeg="700"/>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/Shadow32-dev/SHADOW-CRASH-">
-    <img title="Author" src="https://img.shields.io/badge/Author-SHADOW%20CRASH-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+    <img title="Author" src="https://img.shields.io/badge/Author-MR%20BLACK-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SHADOW-CRASH/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/SHADO-CRASH/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -48,27 +48,27 @@
 ## 🚀 Deploy Easily
 
 ### 🔗 Get Pairing Code
-[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy.onrender.com)
+[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://SHADOW-SESSION-ID-session-by-mr black.onrender.com)
 
 ---
 
 ### ☁️ Deploy on Platforms
 
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/inconnuboyxtech/INCONNU-XD/tree/main)  
+[![Deploy on Heroku](https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Shadow32-dev/SHADOW-CRASH-/tree/main)  
 [![Deploy on TaikDrove](https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white)](https://host.talkdrove.com/share-bot/82)  
-[![Deploy on Koyeb](https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/services/deploy?type=git&repository=inconnuboyxtech/INCONNU-XD&ports=3000)
+[![Deploy on Koyeb](https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/services/deploy?type=git&repository=shadow32-dev/SHADOW&ports=3000)
 
 ---
 
 ## 📦 Fork This Repository
 
-[![Fork Now](https://img.shields.io/badge/Fork-INCONNU--XD-26A69A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadow32-dev/SHADOW-CRASH-/fork)
+[![Fork Now](https://img.shields.io/badge/Fork-SHADOW--MD-26A69A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadow32-dev/SHADOW-CRASH-//fork)
 
 ---
-### 📥 DOWNLOAD FILE INCONNU-XD
+### 📥 DOWNLOAD FILE SHADOW CRASH
 
 <p align="center">
-  <a href="https://github.com/inconnuboyxtech/INCONNU-XD/archive/refs/heads/main.zip">
+  <a href="https://github.com/Shadow32-dev/SHADOW-CRASH-/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
   </a>
 </p>
@@ -97,12 +97,12 @@
 
 ### 🏆 Credits & Contributors
 
-> <a href="https://github.com/inconnuboyxtech">
-  <img alt="SHADOW - OWNER" src="https://img.shields.io/badge/OWNER-⚡INCONNU%20BOY⚡-FF0000?style=for-the-badge&logo=github" />
+> <a href="https://github.com/Shadow32-dev/SHADOW-CRASH-">
+  <img alt="SHADOW CRASH- OWNER" src="https://img.shields.io/badge/OWNER-⚡ SHADOW%20CRASH⚡-FF0000?style=for-the-badge&logo=github" />
 </a>
 
-> <a href="https://github.com/inconnuboyxtech">
-  <img alt="SHADOW - HELPER" src="https://img.shields.io/badge/HELPER-⚡INCONNU%20BOY⚡-00FFC6?style=for-the-badge&logo=github" />
+> <a href="https://github.com/Shadow32-dev/SHADOW-CRASH-">
+  <img alt="SHADOW CRASH- HELPER" src="https://img.shields.io/badge/HELPER-⚡ SHADOW%20CRASH⚡-00FFC6?style=for-the-badge&logo=github" />
 </a>  
 <p><b>For helping in bot plugin files.</b></p>
 
@@ -115,4 +115,4 @@ If you face any issues, report them on GitHub or in the WhatsApp community.
 
 ---
 
-<p align="center"><img alt="Made By SHADOW" src="https://img.shields.io/badge/Made%20by-SHADOW%20BOY-black?style=for-the-badge&logo=github" /></p>
+<p align="center"><img alt="Made By MR BLACK GOKU" src="https://img.shields.io/badge/Made%20by-MR%20BLACK-black?style=for-the-badge&logo=github" /></p>
