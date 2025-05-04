@@ -48,7 +48,7 @@
 ## 🚀 Deploy Easily
 
 ### 🔗 Get Pairing Code
-[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://SHADOW-SESSION-ID-session-by-mr black.onrender.com)
+[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://SHADOW-SESSION-ID-session-by-shadowcrash.onrender.com)
 
 ---
 
